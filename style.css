@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+}
+.logo {
+    width: 120px;
+    margin-left: 100px;
+}
+.nav-items > ul {
+    display: flex;
+    gap: 115px;
+    list-style: none;
+    margin-right: 150px;
+}
+.res-card {
+    width: 200px;
+    height: 250px;
+    border: 1px solid black;
+    padding: 5px;
+}
+.search {
+    padding: 10px;
+}
+.res-logo {
+    width: 100%;
+}
